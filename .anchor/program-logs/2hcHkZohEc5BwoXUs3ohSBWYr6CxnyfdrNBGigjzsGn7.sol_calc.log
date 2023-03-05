@@ -1,0 +1,37 @@
+Streaming transaction logs mentioning 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7. Confirmed commitment
+Transaction executed in slot 6:
+  Signature: wvJ7CfV4QZiAAxbZZvQJaMb1zEY7XNunhxoZapUL9j3netHstDoPLh6w3qYa6RT2K28Dv6kmD356jtkzFYDRrUi
+  Status: Ok
+  Log Messages:
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 invoke [1]
+    Program log: Instruction: Calculate
+    Program log: 1 + 10 = 11
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 consumed 5219 of 200000 compute units
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 success
+Transaction executed in slot 18:
+  Signature: 2cU71JmC9a3xokQ8otk6v2rmas8MHsBRvC9KP8QidP8YanwZktumffj1B3EyN58Fod2AzPgXvH6HQK6XJtdyxTa9
+  Status: Ok
+  Log Messages:
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 invoke [1]
+    Program log: Instruction: Calculate
+    Program log: 1 - 10 = -9
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 consumed 5220 of 200000 compute units
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 success
+Transaction executed in slot 30:
+  Signature: 4P1GNdf3XkfY5JgSo7j3ASnXZWiizTtiFYbmCFdCMgT7ADsinJbcQijpycHhg1YLwoYv5aUoULP3BfzQvbeGqP71
+  Status: Ok
+  Log Messages:
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 invoke [1]
+    Program log: Instruction: Calculate
+    Program log: 1 * 10 = 10
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 consumed 5248 of 200000 compute units
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 success
+Transaction executed in slot 41:
+  Signature: 3Y4FSwFpMcexQ6CmQbgsTXKQa9RgHQBiZ7r8Toq9UNgNxwYPXVMMo6HWk4rfoSM26FW9MUi4uBrKyksoE9sLJLWn
+  Status: Ok
+  Log Messages:
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 invoke [1]
+    Program log: Instruction: Calculate
+    Program log: 1 / 10 = 0.1
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 consumed 5327 of 200000 compute units
+    Program 2hcHkZohEc5BwoXUs3ohSBWYr6CxnyfdrNBGigjzsGn7 success

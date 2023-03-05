@@ -1,0 +1,1 @@
+/Users/brandon.johnson/Projects/Solana/sol-calc/target/bpfel-unknown-unknown/release/libsol_calc.rlib: /Users/brandon.johnson/Projects/Solana/sol-calc/programs/sol-calc/src/calc.rs /Users/brandon.johnson/Projects/Solana/sol-calc/programs/sol-calc/src/lib.rs
